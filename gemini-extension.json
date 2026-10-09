@@ -1,0 +1,11 @@
+{
+  "name": "labour-market-statistics",
+  "version": "1.0.0",
+  "description": "Labour market statistics: unemployment, employment, wages and social protection for 150+ countries.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "labour-market-statistics": {
+      "httpUrl": "https://monit.ly/api/mcp/labour"
+    }
+  }
+}
